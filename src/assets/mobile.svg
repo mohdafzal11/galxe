@@ -1,0 +1,21 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1em"
+    height="1em"
+    fill="none"
+    viewBox="0 0 20 20"
+>
+    <g clip-path="url(#mobile-f_svg__a)">
+        <path
+            fill="#CED3DB"
+            fill-rule="evenodd"
+            d="M3 3.167A2.667 2.667 0 0 1 5.667.5h8.666A2.667 2.667 0 0 1 17 3.167v13.666a2.667 2.667 0 0 1-2.667 2.667H5.667A2.667 2.667 0 0 1 3 16.833zm1.5.333A1.5 1.5 0 0 1 6 2h8a1.5 1.5 0 0 1 1.5 1.5V13a1.5 1.5 0 0 1-1.5 1.5H6A1.5 1.5 0 0 1 4.5 13zm4.25 12.25a1.25 1.25 0 1 0 0 2.5h2.5a1.25 1.25 0 1 0 0-2.5z"
+            clip-rule="evenodd"
+        ></path>
+    </g>
+    <defs>
+        <clipPath id="mobile-f_svg__a">
+            <path fill="#fff" d="M0 0h20v20H0z"></path>
+        </clipPath>
+    </defs>
+</svg>
